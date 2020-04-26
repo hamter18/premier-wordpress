@@ -16,7 +16,7 @@
  *
  * @package WordPress
  */
-
+///coucou
 // ** Réglages MySQL - Votre hébergeur doit vous fournir ces informations. ** //
 /** Nom de la base de données de WordPress. */
 define('DB_NAME', 'votre_nom_de_bdd');
