@@ -16,8 +16,5 @@ define( 'WP_USE_THEMES', true );
 /** Loads the WordPress Environment and Template */
 require __DIR__ . '/wp-blog-header.php';
 ///petit changement qui sert à rien
-///deuxieme changement qui sert a rien
-///12345
 
-
-///j'espre que ca va marcher
+//troisième changement qui sert à rien
