@@ -5,7 +5,9 @@
  *
  * @package WordPress
  */
+///coucou
 
+///helo
 define( 'WP_INSTALLING', true );
 
 /** Sets up the WordPress Environment. */

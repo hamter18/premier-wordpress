@@ -16,6 +16,7 @@
  *
  * @package WordPress
  */
+//je tente des conflis sur plusieur page 
 
 // ** Réglages MySQL - Votre hébergeur doit vous fournir ces informations. ** //
 /** Nom de la base de données de WordPress. */
