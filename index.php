@@ -17,3 +17,4 @@ define( 'WP_USE_THEMES', true );
 require __DIR__ . '/wp-blog-header.php';
 ///petit changement qui sert à rien
 ///deuxieme changement qui sert a rien
+///12345
